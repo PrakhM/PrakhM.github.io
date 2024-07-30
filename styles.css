@@ -1,4 +1,29 @@
 body 
 {
-    background-color: rgb(20, 0, 80);
+    background-color: rgb(20, 0, 45);
 }
+
+h1
+{
+    color:orange;
+    font-size:64px;
+    font-family: Verdana, Courier New;
+    
+}
+
+h2
+{
+    color:cyan;
+    font-family: Verdana, Courier New;
+}
+
+a
+{
+    color:orangered;
+}
+
+a:visited
+{
+    color:brown;
+}
+
