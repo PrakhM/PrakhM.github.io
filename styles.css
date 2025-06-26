@@ -44,6 +44,7 @@ p
 {
     color: var(--light1);
     font-family: PixelifySans, Courier New;
+    font-size:large;
 }
 
 .myContainer
